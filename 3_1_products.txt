@@ -1,0 +1,21 @@
+product_type;required_time;min_production;profit;recipe
+testP11;3.867;21;30;{'testM15': 2, 'testM112': 1, 'testM114': 1, 'testM110': 3, 'testM113': 1, 'testM115': 1}
+testP12;3.2;22;36;{'testM12': 1, 'testM11': 2, 'testM16': 3, 'testM112': 3, 'testM17': 3, 'testM18': 1, 'testM14': 2}
+testP13;3.165;39;40;{'testM19': 2, 'testM18': 2, 'testM112': 3, 'testM113': 3, 'testM15': 3, 'testM110': 2}
+testP14;2.344;13;20;{'testM111': 3, 'testM114': 2, 'testM18': 2, 'testM17': 3}
+testP15;2.646;7;24;{'testM113': 3, 'testM115': 2, 'testM18': 2, 'testM19': 1, 'testM12': 3}
+testP16;2.063;46;24;{'testM114': 1, 'testM12': 3, 'testM14': 1, 'testM18': 1, 'testM16': 1}
+testP17;1.342;23;17;{'testM16': 3, 'testM15': 1}
+testP18;3.958;20;31;{'testM115': 3, 'testM11': 2, 'testM16': 1, 'testM112': 1, 'testM13': 3, 'testM113': 2, 'testM18': 1, 'testM114': 1}
+testP19;3.683;20;32;{'testM14': 3, 'testM19': 3, 'testM115': 1, 'testM112': 1, 'testM18': 3, 'testM111': 1, 'testM17': 2}
+testP110;1.455;12;14;{'testM113': 3, 'testM18': 3}
+testP111;3.971;39;37;{'testM17': 2, 'testM15': 1, 'testM113': 3, 'testM19': 1, 'testM11': 3, 'testM13': 2, 'testM115': 2}
+testP112;3.457;37;34;{'testM18': 1, 'testM13': 2, 'testM113': 1, 'testM114': 1, 'testM110': 3, 'testM19': 2, 'testM111': 1, 'testM112': 3}
+testP113;3.151;6;40;{'testM16': 3, 'testM19': 3, 'testM18': 3, 'testM110': 1, 'testM112': 2, 'testM113': 3}
+testP114;2.895;50;24;{'testM114': 1, 'testM16': 2, 'testM11': 2, 'testM111': 1, 'testM17': 3}
+testP115;3.978;8;37;{'testM12': 3, 'testM114': 1, 'testM17': 1, 'testM115': 3, 'testM113': 1, 'testM16': 2}
+testP116;3.321;31;34;{'testM110': 2, 'testM115': 3, 'testM14': 3, 'testM12': 3, 'testM114': 1, 'testM13': 1, 'testM17': 3}
+testP117;2.537;39;22;{'testM114': 2, 'testM112': 1, 'testM15': 3, 'testM11': 3}
+testP118;3.186;49;35;{'testM17': 2, 'testM13': 3, 'testM113': 2, 'testM19': 2, 'testM14': 3, 'testM112': 3, 'testM16': 1}
+testP119;3.282;49;30;{'testM112': 1, 'testM19': 1, 'testM17': 2, 'testM18': 1, 'testM115': 2, 'testM113': 2, 'testM111': 2, 'testM110': 1}
+testP120;3.583;37;35;{'testM13': 2, 'testM19': 1, 'testM15': 2, 'testM14': 3, 'testM18': 2, 'testM12': 3, 'testM11': 2, 'testM115': 3}

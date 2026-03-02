@@ -1,0 +1,21 @@
+product_type;required_time;min_production;profit;recipe
+testP21;3.471;13;30;{'testM215': 1, 'testM23': 1, 'testM214': 2, 'testM27': 1, 'testM25': 2, 'testM24': 3, 'testM211': 3}
+testP22;2.325;19;20;{'testM213': 2, 'testM29': 3, 'testM26': 1, 'testM22': 2}
+testP23;1.94;19;19;{'testM22': 3, 'testM210': 3, 'testM213': 2}
+testP24;3.996;29;30;{'testM26': 2, 'testM21': 2, 'testM211': 3, 'testM27': 1, 'testM215': 2, 'testM29': 3, 'testM25': 3, 'testM213': 1}
+testP25;1.115;6;13;{'testM22': 1, 'testM28': 3}
+testP26;2.062;45;22;{'testM212': 1, 'testM27': 3, 'testM211': 2, 'testM24': 1}
+testP27;2.43;15;30;{'testM213': 3, 'testM21': 3, 'testM214': 1, 'testM27': 1, 'testM23': 2}
+testP28;2.617;40;21;{'testM21': 2, 'testM215': 1, 'testM211': 2, 'testM24': 1, 'testM214': 1}
+testP29;2.081;26;21;{'testM29': 1, 'testM24': 1, 'testM211': 2, 'testM23': 1, 'testM210': 2}
+testP210;2.542;40;22;{'testM214': 3, 'testM211': 3, 'testM25': 1, 'testM26': 3, 'testM28': 2}
+testP211;3.229;39;38;{'testM26': 2, 'testM25': 1, 'testM22': 3, 'testM21': 2, 'testM210': 3, 'testM24': 3}
+testP212;2.27;37;27;{'testM214': 1, 'testM210': 1, 'testM211': 2, 'testM212': 2, 'testM24': 1}
+testP213;2.154;24;26;{'testM24': 3, 'testM214': 3, 'testM213': 3, 'testM29': 2, 'testM215': 2}
+testP214;3.879;11;34;{'testM27': 3, 'testM24': 3, 'testM29': 3, 'testM22': 1, 'testM211': 1, 'testM214': 2, 'testM210': 1, 'testM23': 2}
+testP215;1.594;15;19;{'testM210': 2, 'testM212': 1}
+testP216;3.068;10;30;{'testM29': 3, 'testM21': 3, 'testM212': 2, 'testM215': 2, 'testM213': 1, 'testM214': 3, 'testM27': 3}
+testP217;2.492;12;28;{'testM26': 2, 'testM27': 3, 'testM211': 2, 'testM21': 3, 'testM23': 1}
+testP218;1.27;11;19;{'testM211': 2, 'testM210': 1}
+testP219;3.669;21;39;{'testM27': 3, 'testM26': 1, 'testM25': 1, 'testM22': 3, 'testM23': 2, 'testM24': 1}
+testP220;1.766;19;18;{'testM215': 2, 'testM213': 2, 'testM29': 3}

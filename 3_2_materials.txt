@@ -1,0 +1,16 @@
+material_type;available
+testM21;2660
+testM22;2267
+testM23;1735
+testM24;1587
+testM25;1448
+testM26;1743
+testM27;1947
+testM28;2857
+testM29;2489
+testM210;1998
+testM211;1283
+testM212;1769
+testM213;3000
+testM214;1540
+testM215;1998
